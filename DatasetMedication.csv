@@ -1,0 +1,41 @@
+Gender,Age,Pain Intensity,Swelling,Diab,Hypertensive,Cardiac,Liver Transplant,Kidney Transplant,Drugs
+male,40,severe ,Y,N,Y,Y,N,N,DrugB
+female,35,mild ,N,N,Y,N,N,N,DrugA
+male,42,normal,N,Y,Y,N,N,N,DrugA
+male,15,normal,N,N,N,N,N,N,DrugC
+female,34,normal,N,N,N,N,N,N,DrugC
+male,50,mild,N,N,Y,Y,N,N,DrugA
+male,34,severe ,N,N,Y,N,N,N,DrugA
+male,15,normal,N,N,N,N,N,N,DrugC
+female,45,mild,N,N,Y,N,N,Y,DrugA
+female,34,mild,N,N,N,Y,N,N,DrugC
+female,23,mild,N,N,Y,N,N,N,DrugC
+male,31,mild,N,N,N,N,N,N,DrugC
+male,19,mild ,N,N,N,N,N,N,DrugC
+male,20,severe ,N,N,N,N,N,N,DrugC
+male,38,normal,N,Y,N,Y,N,N,DrugC
+female,42,normal,N,N,Y,Y,N,N,DrugA
+female,13,normal,N,N,N,N,N,N,DrugC
+male,20,normal,N,N,N,N,N,N,DrugC
+male,31,normal,N,N,N,N,N,N,DrugC
+female,23,normal,N,N,N,N,N,N,DrugC
+male,24,normal,Y,N,Y,N,N,N,DrugA
+male,29,severe ,Y,N,N,N,N,N,DrugC
+male,36,normal,N,N,Y,N,N,N,DrugA
+female,20,normal,N,N,N,N,N,N,DrugC
+female,32,severe ,N,N,Y,N,N,N,DrugA
+female,21,mild,N,N,Y,N,N,N,DrugA
+female,25,mild,Y,N,N,N,N,N,DrugC
+female,28,normal,N,Y,N,N,N,N,DrugC
+female,43,normal,N,Y,Y,N,Y,N,DrugA
+female,23,mild,N,N,N,N,N,N,DrugC
+female,50,severe ,Y,Y,Y,N,Y,N,DrugA
+male,42,normal,N,Y,Y,N,N,N,DrugA
+female,29,mild,N,Y,N,N,N,N,DrugC
+female,28,severe ,N,N,Y,N,N,N,DrugA
+male,33,mild,Y,Y,Y,N,N,N,DrugA
+female,21,mild,N,N,N,N,N,N,DrugC
+male,37,mild,N,Y,N,N,N,N,DrugC
+male,37,mild,Y,N,Y,N,N,N,DrugA
+male,29,mild,N,Y,N,N,N,N,DrugC
+male,34,normal,Y,N,Y,N,N, N,DrugA

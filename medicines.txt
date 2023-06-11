@@ -1,0 +1,4 @@
+Tab.Fastaid Plus/cap.Dalacin 300mg = DrugA
+Tab.Fastaid Plus/cap.Dalacin 300mg = DrugB
+Tab.synflex 550mg/cap.velosef500mg = DrugC
+
