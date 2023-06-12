@@ -6,7 +6,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.tree import DecisionTreeClassifier
 
 # Load the trained model
-with open('model.pkl', 'rb') as file:
+with open('DTM_model.pkl', 'rb') as file:
     model = pickle.load(file)
 
 # Create a Flask app
